@@ -1,0 +1,128 @@
+# Copyright (C) 2020 Odise
+# This file is distributed under the same license as the Odise package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odise\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Artbees <info@artbees.net>\n"
+"Last-Translator: Artbees Team <info@artbees.net>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/class-init.php:16
+msgid "Odise Settings"
+msgstr ""
+
+#: admin/class-init.php:17, admin/class-init.php:49
+msgid "Odise"
+msgstr ""
+
+#: admin/class-init.php:48
+msgid "Please complete your registration in"
+msgstr ""
+
+#: admin/views/agreement.php:5
+msgid "..:: Terms and condition ::.."
+msgstr ""
+
+#: admin/views/agreement.php:10
+msgid "The following account from"
+msgstr ""
+
+#: admin/views/agreement.php:17
+msgid "Email:"
+msgstr ""
+
+#: admin/views/agreement.php:27
+msgid "By clicking this button, you agree to Odise's"
+msgstr ""
+
+#: admin/views/agreement.php:28
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/views/agreement.php:29
+msgid "&"
+msgstr ""
+
+#: admin/views/agreement.php:30
+msgid "Terms of use"
+msgstr ""
+
+#: admin/views/agreement.php:34
+msgid "I agree"
+msgstr ""
+
+#: admin/views/integrated.php:3
+msgid "Integration info"
+msgstr ""
+
+#: admin/views/integrated.php:5
+msgid "Site URL:"
+msgstr ""
+
+#: admin/views/integrated.php:9
+msgid "Site ID:"
+msgstr ""
+
+#: admin/views/integrated.php:13
+msgid "Terms and conditions"
+msgstr ""
+
+#: admin/views/integrated.php:16
+msgid "Remove integration"
+msgstr ""
+
+#: admin/views/welcome.php:3
+msgid "Checking integration to Odise"
+msgstr ""
+
+#: includes/controller/class-coupon-controller.php:28, includes/controller/class-post-type-sync.php:13, includes/controller/class-status-controller.php:9, includes/controller/class-user-controller.php:22, includes/controller/class-user-controller.php:213
+msgid "Invalid Site ID"
+msgstr ""
+
+#: includes/controller/class-coupon-controller.php:32
+msgid "WooCommerce is not active"
+msgstr ""
+
+#: includes/controller/class-coupon-controller.php:83
+msgid "Invalid coupon"
+msgstr ""
+
+#: includes/controller/class-unsubscribe-controller.php:59, includes/controller/class-unsubscribe-controller.php:61
+msgid "Unsubscribe Successful"
+msgstr ""
+
+#: includes/controller/class-user-controller.php:269
+msgid "Registration successful."
+msgstr ""
+
+#: includes/webhook/class-verify-token-webhook.php:19, includes/webhook/class-verify-token-webhook.php:28
+msgid "Token not valid"
+msgstr ""
+
+#: public/views/odunsubscribe.php:1
+msgid "You have unsubscribed from future emails."
+msgstr ""
+
+#: public/views/odunsubscribe.php:4
+msgid "Note:"
+msgstr ""
+
+#: public/views/odunsubscribe.php:6
+msgid "You may still receive non-marketing emails from us, including, but not limited to, emails related to your user account and shop orders."
+msgstr ""
+
+#: public/views/odunsubscribe.php:15
+msgid "Sorry to see you go! Feel free to drop us a line if you'd like to join our email list again to receive the latest and greatest articles and deals."
+msgstr ""
+
+#: public/views/odunsubscribe.php:27
+msgid "Click here to return to home page."
+msgstr ""
